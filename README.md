@@ -2,7 +2,7 @@
   - 온라인 스트리밍 사이트 DB
 
 ## ⌚ Project Period
-  - 2021.03 ~ 2021.06
+  - 2021.09 ~ 2021.12
 
 ## 🛠 Development Environment
   -  Tool : ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
