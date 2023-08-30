@@ -70,7 +70,7 @@
 ## DML INSERT 데이터 삽입
 ![image](https://github.com/r3795/OnlineStreamingDB/assets/105268338/6bd05da3-82ff-430b-b34f-699f4d4b9cf0)
 
-### 상세 코드 소스 참조
+### DDL, DML 상세 코드 소스 참조
 
 ## DML 검색 
 **1. 후기의 모든 속성 검색<**br>
