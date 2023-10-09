@@ -90,6 +90,7 @@
 
 
 **5. 전체 시청자 중 멤버십을 가입한 시청자의 아이디, 혜택 검색** (미가입자는 아이디만 출력)<br>
+MySQL과의 차이점 분석을 위해 Oracle로 변경하여 진행<br>
 ![image](https://github.com/r3795/OnlineStreamingDB/assets/105268338/8a77963d-aa79-46ad-a15e-57e99812baca)
 
 
