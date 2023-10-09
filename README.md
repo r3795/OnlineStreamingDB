@@ -73,7 +73,7 @@
 ### DDL, DML 상세 코드 소스 참조
 
 ## DML 검색 
-**1. 후기의 모든 속성 검색<**br>
+**1. 후기의 모든 속성 검색**<br>
 ![image](https://github.com/r3795/OnlineStreamingDB/assets/105268338/c7d3e011-f915-440c-a214-fe2d513443b8)
 
 
