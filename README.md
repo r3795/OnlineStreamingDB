@@ -5,8 +5,7 @@
   - 2021.09 ~ 2021.12
 
 ## 🛠 Development Environment
-  ### 🚀 Skills : ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ### ⚡ Database : ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ### 🚀 Skills / ⚡ Database :  ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
   
 ## 요구사항 명세서
 * 온라인 스트리밍 서비스 사이트에는 컨텐츠를 공급하는 제작자와 
